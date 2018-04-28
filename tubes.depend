@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1522740399 source:d:\strukdat\tubes\tubes\consumen.cpp
+
+1522741290 source:d:\strukdat\tubes\tubes\main.cpp
+	<iostream>
+
+1522741290 source:d:\strukdat\tubesasd\tubes\main.cpp
+	<iostream>
+
+1524917966 source:c:\users\gp62\documents\github\tubesasd\tubessss\tubes\consumen.cpp
+	"Consumen.h"
+
+1524918363 c:\users\gp62\documents\github\tubesasd\tubessss\tubes\consumen.h
+	<iostream>
+	<string.h>
+	"Goods.h"
+	"Relation.h"
+
+1524918331 c:\users\gp62\documents\github\tubesasd\tubessss\tubes\goods.h
+	"Consumen.h"
+	"Relation.h"
+	<iostream>
+	<string.h>
+
+1524918468 c:\users\gp62\documents\github\tubesasd\tubessss\tubes\relation.h
+	<iostream>
+	<string.h>
+	"Consumen.h"
+	"Goods.h"
+
